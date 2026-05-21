@@ -12,7 +12,4 @@ This project is based on a Deloitte Data Analytics simulation. It includes analy
 - Identified machine failure patterns
 - Classified gender pay equality into categories (Fair, Unfair, Highly Discriminative)
 
-## Files
-- dashboard.png
-- equality_analysis.xlsx
 
